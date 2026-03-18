@@ -1,5 +1,5 @@
 # AIGC5005 Midterm Project — Online Order Risk Classification
-**Team:** Calvin Adams | Kash Kannaiti, Fadi | Ogbeide Iria
+**Team:** Kash Kannaiti, Fadi
 **Course:** AIGC 5005 – Humber College
 ## How to Run
 1. Open Google Colab: https://colab.research.google.com
